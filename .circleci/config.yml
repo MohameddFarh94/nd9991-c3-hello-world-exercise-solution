@@ -73,5 +73,5 @@ workflows:
  #    - build
       - create_infrastructure
 #     - configure_infrastructure
-#      - smoke_test
+      - smoke_test
 
